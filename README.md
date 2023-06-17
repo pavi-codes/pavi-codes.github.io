@@ -1,3 +1,3 @@
-# pavi-codes
+# pavi-codes.github.io
 
 ## website
